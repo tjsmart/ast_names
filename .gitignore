@@ -1,0 +1,14 @@
+build/
+.cache
+.coverage
+/dist/
+*.egg-info
+.mypy_cache/
+/public/
+*.py[cod]
+.pytest_cache/
+.tox/
+transports.ini
+/*venv*/
+/.vscode/
+*.whl
